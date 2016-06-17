@@ -1,0 +1,5 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication29\ImageShare.Data\bin\Debug\ImageShare.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication29\ImageShare.Data\bin\Debug\ImageShare.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication29\ImageShare.Data\obj\Debug\ImageShare.Data.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication29\ImageShare.Data\obj\Debug\ImageShare.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication29\ImageShare.Data\obj\Debug\ImageShare.Data.pdb
